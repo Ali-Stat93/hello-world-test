@@ -2,6 +2,7 @@ package org.demo.example.model;
 
 public class User {
 	private String firstName;
+	private int age;
 
 	/**
 	 * @param firstName
